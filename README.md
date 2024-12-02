@@ -21,13 +21,21 @@ This repository provides a well-organized and efficient way to retrieve various 
 
 Use the following pip command to install the necessary libraries:
 
-```pip install ...``
+```
+
+pip install ...
+
+```
 
 ## Run the script
 
 After installation, simply run the 'get_intraday_data.py' script
 
-```python get_intraday_data.py```
+```
+
+python get_intraday_data.py
+
+```
 
 ## Output
 
