@@ -20,12 +20,15 @@ This repository provides a well-organized and efficient way to retrieve various 
 ## Installation
 
 Use the following pip command to install the necessary libraries:
+
 ```pip install ...``
 
 ## Run the script
 
 After installation, simply run the 'get_intraday_data.py' script
+
 ```python get_intraday_data.py```
 
-## Result
-The retrieved data will be saved to the historical_data folder.
+## Output
+
+The retrieved data will be saved to the historical_data folder in this format: ticker_1_min_data.csv.
