@@ -22,9 +22,7 @@ This repository provides a well-organized and efficient way to retrieve various 
 Use the following pip command to install the necessary libraries:
 
 ```
-
-pip install ...
-
+pip install -r requirements.txt
 ```
 
 ## Run the script
@@ -32,9 +30,7 @@ pip install ...
 After installation, simply run the 'get_intraday_data.py' script
 
 ```
-
 python get_intraday_data.py
-
 ```
 
 ## Output
