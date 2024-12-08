@@ -19,7 +19,7 @@ This repository provides a well-organized and efficient way to retrieve various 
 
 ## Installation
 
-Use the following pip command to install the necessary libraries:
+First Clone this Repository. Then, use the following pip command to install the necessary libraries:
 
 ```
 pip install -r requirements.txt
